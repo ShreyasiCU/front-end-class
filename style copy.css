@@ -61,7 +61,7 @@ m-text{
     margin-top: 0;
 }
 #showcase{
-    background: antiquewhite url('../LA_HILLS.jpg') no-repeat center center/cover;
+    background: antiquewhite url('./LA_HILLS.jpg') no-repeat center center/cover;
     height: 100%;
     overflow: hidden;
     
